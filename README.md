@@ -51,7 +51,7 @@ python juego.py
 
 Aparecera un mensaje en la consola pidiendo el numero de jugadores.
 
-**IMPORTANTE**: Cuando se pregunte si un equipo jugara automaticamente, **se debe responder "n"**, ya que los bots aun no están completamente implementados.
+**IMPORTANTE**: Cuando se pregunte si un equipo jugara automaticamente, **se debe responder "n"**, ya que los bots aun no estan completamente implementados.
 
 ### Jugabilidad
 
