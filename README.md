@@ -15,7 +15,7 @@
 - Movimiento mediante clics y seleccion de dados.
 - Lanzamiento de dados con BARRA ESPACIADORA
 
-Actualmente, **los bots aun no están implementados al 100%**, por lo que al iniciar el juego, cuando en la consola se pregunte si un equipo jugarq automqticamente, **se debe responder "n"**.
+Actualmente, **los bots aun no estan implementados al 100%**, por lo que al iniciar el juego, cuando en la consola se pregunte si un equipo jugarq automqticamente, **se debe responder "n"**.
 
 ---
 
@@ -57,15 +57,15 @@ Aparecera un mensaje en la consola pidiendo el numero de jugadores.
 
 - **Lanzar los dados:** Presiona la **barra espaciadora** para lanzar los dados.
 - **Mover fichas:**
-  - **Haz clic** en la ficha que deseas mover.
-  - **Haz clic** en el dado que tenga el numero de movimientos que deseas usar.
+  - **Hacer clic** en la ficha que deseas mover.
+  - **Hacer clic** en el dado que tenga el numero de movimientos que deseas usar.
 - **Condiciones del juego:**
   - Si obtienes un **5**, puedes sacar una ficha de la carcel.
   - Si tu ficha cae en una casilla ocupada por un enemigo, lo capturas y lo envias a la carcel.
   - No puedes moverte a una casilla ocupada por **dos fichas del mismo color** (bloqueo).
   - El juego termina cuando un equipo logra llevar **todas sus fichas a la meta**.
 
-**Nota:** Aun no hay una interfaz de menu, por lo que el juego se maneja directamente desde la ventana de Pygame y la consola.
+**Nota:** El juego se maneja directamente desde la ventana de Pygame y la consola.
 
 ---
 
