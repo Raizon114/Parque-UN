@@ -65,7 +65,7 @@ Aparecera un mensaje en la consola pidiendo el número de jugadores.
   - No puedes moverte a una casilla ocupada por **dos fichas del mismo color** (bloqueo).
   - El juego termina cuando un equipo logra llevar **todas sus fichas a la meta**.
 
-**Nota:** Aún no hay una interfaz de menu, por lo que el juego se maneja directamente desde la ventana de Pygame y la consola.
+**Nota:** Aun no hay una interfaz de menu, por lo que el juego se maneja directamente desde la ventana de Pygame y la consola.
 
 ---
 
