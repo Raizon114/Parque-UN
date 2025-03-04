@@ -1,4 +1,4 @@
-# Parques UN🎲
+# Parques UN
 
 **Una adaptación digital del clásico juego de mesa "Parques o Parchis", desarrollado en Python con gráficos interactivos en Pygame.**
 
@@ -25,7 +25,7 @@ Actualmente, **los bots aún no están implementados al 100%**, por lo que al in
 
 Para instalar el juego, \*\*se debe extraer el archivo \*\*\`\` en la siguiente dirección:
 
-📂 `C:\Users\HP\Documents`      o      en DOCUMENTOS 📂 (la cual se ubica en Biblioteca).
+ `C:\Users\HP\Documents`      o      en DOCUMENTOS (la cual se ubica en Biblioteca).
 
 Es importante respetar esta ruta, ya que el juego busca recursos (imágenes) dentro de esta ubicación.
 
