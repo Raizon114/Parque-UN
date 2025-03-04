@@ -49,7 +49,7 @@ Para iniciar la partida, ejecuta el archivo \`\` con Python:
 python juego.py
 ```
 
-Aparecera un mensaje en la consola pidiendo el número de jugadores.
+Aparecera un mensaje en la consola pidiendo el numero de jugadores.
 
 **IMPORTANTE**: Cuando se pregunte si un equipo jugara automaticamente, **se debe responder "n"**, ya que los bots aun no están completamente implementados.
 
