@@ -1,6 +1,6 @@
 # Parques UN
 
-**Una adaptacion digital del clasico juego de mesa "Parques o Parchis", desarrollado en Python con gráficos interactivos en Pygame.**
+**Una adaptacion digital del clasico juego de mesa "Parques o Parchis", desarrollado en Python con graficos interactivos en Pygame.**
 
 ---
 
@@ -12,7 +12,7 @@
 - Captura de fichas enemigas.
 - Zonas seguras.
 - Recorrido interno antes de la meta.
-- Movimiento mediante clics y selección de dados.
+- Movimiento mediante clics y seleccion de dados.
 - Lanzamiento de dados con BARRA ESPACIADORA
 
 Actualmente, **los bots aun no están implementados al 100%**, por lo que al iniciar el juego, cuando en la consola se pregunte si un equipo jugarq automqticamente, **se debe responder "n"**.
