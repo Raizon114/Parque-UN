@@ -1,12 +1,12 @@
 # Parques UN
 
-**Una adaptación digital del clásico juego de mesa "Parques o Parchis", desarrollado en Python con gráficos interactivos en Pygame.**
+**Una adaptacion digital del clasico juego de mesa "Parques o Parchis", desarrollado en Python con gráficos interactivos en Pygame.**
 
 ---
 
-## Descripción
+## Descripcion
 
-"Parques UN" es una versión digital del  juego de mesa "Parques o parchis". **Este juego permite jugar entre 1 y 4 jugadores**, con mecánicas clásicas como:
+"Parques UN" es una version digital del  juego de mesa "Parques o parchis". **Este juego permite jugar entre 1 y 4 jugadores**, con mecanicas clasicas como:
 
 - Salida de fichas con un **5** en los dados.
 - Captura de fichas enemigas.
@@ -15,23 +15,23 @@
 - Movimiento mediante clics y selección de dados.
 - Lanzamiento de dados con BARRA ESPACIADORA
 
-Actualmente, **los bots aún no están implementados al 100%**, por lo que al iniciar el juego, cuando en la consola se pregunte si un equipo jugará automáticamente, **se debe responder "n"**.
+Actualmente, **los bots aun no están implementados al 100%**, por lo que al iniciar el juego, cuando en la consola se pregunte si un equipo jugarq automqticamente, **se debe responder "n"**.
 
 ---
 
-## Instalación
+## Instalacion
 
-### **Descarga y extracción del juego**
+### **Descarga y extraccion del juego**
 
-Para instalar el juego, \*\*se debe extraer el archivo \*\*\`\` en la siguiente dirección:
+Para instalar el juego, se debe extraer el archivo `parqueses.rar` en la siguiente direccion:
 
  `C:\Users\HP\Documents`      o   en   `DOCUMENTOS`  (la cual se ubica en Biblioteca).
 
-Es importante respetar esta ruta, ya que el juego busca recursos (imágenes) dentro de esta ubicación.
+Es importante respetar esta ruta, ya que el juego busca recursos (imagenes) dentro de esta ubicacion.
 
-### **Instalación de paquetes necesarios**
+### **Instalacion de paquetes necesarios**
 
-Para ejecutar el juego, necesitas tener **Python** instalado y la librería `pygame`. Si no tienes **Pygame** instalado, puedes hacerlo ejecutando el siguiente comando en la terminal o consola:
+Para ejecutar el juego, necesitas tener **Python** instalado y la libreria `pygame`. Si no tienes **Pygame** instalado, puedes hacerlo ejecutando el siguiente comando en la terminal o consola:
 
 ```sh
 pip install pygame
@@ -39,7 +39,7 @@ pip install pygame
 
 ---
 
-## ¿Cómo jugar?
+## ¿Como se juega?
 
 ### **Ejecutar el juego**
 
@@ -49,23 +49,23 @@ Para iniciar la partida, ejecuta el archivo \`\` con Python:
 python juego.py
 ```
 
-Aparecerá un mensaje en la consola pidiendo el número de jugadores.
+Aparecera un mensaje en la consola pidiendo el número de jugadores.
 
-&#x20;**IMPORTANTE**: Cuando se pregunte si un equipo jugará automáticamente, **se debe responder "n"**, ya que los bots aún no están completamente implementados.
+**IMPORTANTE**: Cuando se pregunte si un equipo jugara automaticamente, **se debe responder "n"**, ya que los bots aun no están completamente implementados.
 
 ### Jugabilidad
 
 - **Lanzar los dados:** Presiona la **barra espaciadora** para lanzar los dados.
 - **Mover fichas:**
   - **Haz clic** en la ficha que deseas mover.
-  - **Haz clic** en el dado que tenga el número de movimientos que deseas usar.
+  - **Haz clic** en el dado que tenga el numero de movimientos que deseas usar.
 - **Condiciones del juego:**
-  - Si obtienes un **5**, puedes sacar una ficha de la cárcel.
-  - Si tu ficha cae en una casilla ocupada por un enemigo, lo capturas y lo envías a la cárcel.
+  - Si obtienes un **5**, puedes sacar una ficha de la carcel.
+  - Si tu ficha cae en una casilla ocupada por un enemigo, lo capturas y lo envias a la carcel.
   - No puedes moverte a una casilla ocupada por **dos fichas del mismo color** (bloqueo).
   - El juego termina cuando un equipo logra llevar **todas sus fichas a la meta**.
 
-&#x20;**Nota:** Aún no hay una interfaz de menú, por lo que el juego se maneja directamente desde la ventana de Pygame y la consola.
+**Nota:** Aún no hay una interfaz de menu, por lo que el juego se maneja directamente desde la ventana de Pygame y la consola.
 
 ---
 
